@@ -1,4 +1,4 @@
-name: Open TEchnologies
+name: Open Technologies
 favicon: null
 layout_spectrum: 0.7456829529255629
 typography_spectrum: 0.786374342860654
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#ffffff'
+    - '#184399'
+    - '#86a3cb'
+    - '#6686bd'
+    - '#dedeec'
   brandStrength: 0.30650168657302856
   lightness: 0.1956541957333684
   saturation: 0.6212472324259579
